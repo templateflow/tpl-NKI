@@ -2,7 +2,14 @@
   "name": "ANTs' NKI-1 template",
   "version": "1.0.0",
   "id": "NKI",
-  "authors": [],
-  "citation": [],
+  "authors": ["Avants BB", "Tustison NJ", "Song G", "Cook PA", "Klein A", "Gee JC"],
+  "citation": ["10.1016/j.neuroimage.2010.09.025", "10.3389/fnins.2012.00152"],
+  "res": {
+    "01": {
+      "shape": [192, 256, 256],
+      "origin": [-95.5, -100.76028442382812, -131.95883178710938],
+      "zooms": [1.0, 1.0, 1.0]
+    }
+  },
   "url": "https://figshare.com/articles/ANTs_ANTsR_Brain_Templates/915436"
 }
