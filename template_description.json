@@ -1,22 +1,41 @@
 {
-  "Authors": ["Avants BB", "Tustison NJ", "Song G", "Cook PA", "Klein A", "Gee JC"],
   "Acknowledgements": "Curated and added to TemplateFlow by Esteban O and Ciric R",
+  "Authors": [
+    "Avants BB",
+    "Tustison NJ",
+    "Song G",
+    "Cook PA",
+    "Klein A",
+    "Gee JC"
+  ],
   "BIDSVersion": "1.1.0",
   "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1, 2}",
   "Identifier": "NKI",
   "License": "CC BY 4.0",
   "Name": "ANTs' NKI-1 template",
-  "ReferencesAndLinks": {
-    "1": "https://doi.org/10.1016/j.neuroimage.2010.09.025",
-    "2": "https://doi.org/10.3389/fnins.2012.00152",
-    "3": "https://figshare.com/articles/ANTs_ANTsR_Brain_Templates/915436"
-  },
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2010.09.025",
+    "https://doi.org/10.3389/fnins.2012.00152",
+    "https://figshare.com/articles/ANTs_ANTsR_Brain_Templates/915436"
+  ],
   "TemplateFlowVersion": "1.0.0",
   "res": {
     "01": {
-      "origin": [-95.5, -100.76028442382812, -131.95883178710938],
-      "shape": [192, 256, 256],
-      "zooms": [1.0, 1.0, 1.0]
+      "origin": [
+        -95.5,
+        -100.76028442382812,
+        -131.95883178710938
+      ],
+      "shape": [
+        192,
+        256,
+        256
+      ],
+      "zooms": [
+        1.0,
+        1.0,
+        1.0
+      ]
     }
   }
 }
