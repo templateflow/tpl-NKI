@@ -1,5 +1,4 @@
 {
-  "Acknowledgements": "Curated and added to TemplateFlow by Esteban O and Ciric R",
   "Authors": [
     "Avants BB",
     "Tustison NJ",
@@ -9,7 +8,9 @@
     "Gee JC"
   ],
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1, 2}",
+  "Curators": [
+    "Esteban O and Ciric R"
+  ],
   "Identifier": "NKI",
   "License": "CC BY 4.0",
   "Name": "ANTs' NKI-1 template",
